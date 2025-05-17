@@ -1,0 +1,7 @@
+pillow
+requests
+pygame
+aiohttp
+async-timeout
+websockets==13.1
+yarl
