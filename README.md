@@ -95,7 +95,7 @@ python -m pygame.examples.aliens
 
 # Tested on:
 - MacOS 15.0.1
-- Ubuntu 22.04 (com Python 3.11)
+- Ubuntu 22.04 (Python 3.11)
 
 ---
 
