@@ -1,7 +1,7 @@
 # 🐍 IA-Snakes  
 Snake game clone with an intelligent agent, developed as part of the Artificial Intelligence course unit.
 
-**Final Grade: 17.9 / 20**
+**Final Grade: 18 / 20**
 ---
 
 ## Authors  
